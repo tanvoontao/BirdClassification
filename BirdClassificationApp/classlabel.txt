@@ -1,0 +1,200 @@
+Black footed Albatross - 0
+Laysan Albatross - 1
+Sooty Albatross - 2
+Groove billed Ani - 3
+Crested Auklet - 4
+Least Auklet - 5
+Parakeet Auklet - 6
+Rhinoceros Auklet - 7
+Brewer Blackbird - 8
+Red winged Blackbird - 9
+Rusty Blackbird - 10
+Yellow headed Blackbird - 11
+Bobolink - 12
+Indigo Bunting - 13
+Lazuli Bunting - 14
+Painted Bunting - 15
+Cardinal - 16
+Spotted Catbird - 17
+Gray Catbird - 18
+Yellow breasted Chat - 19
+Eastern Towhee - 20
+Chuck will Widow - 21
+Brandt Cormorant - 22
+Red faced Cormorant - 23
+Pelagic Cormorant - 24
+Bronzed Cowbird - 25
+Shiny Cowbird - 26
+Brown Creeper - 27
+American Crow - 28
+Fish Crow - 29
+Black billed Cuckoo - 30
+Mangrove Cuckoo - 31
+Yellow billed Cuckoo - 32
+Gray crowned Rosy Finch - 33
+Purple Finch - 34
+Northern Flicker - 35
+Acadian Flycatcher - 36
+Great Crested Flycatcher - 37
+Least Flycatcher - 38
+Olive sided Flycatcher - 39
+Scissor tailed Flycatcher - 40
+Vermilion Flycatcher - 41
+Yellow bellied Flycatcher - 42
+Frigatebird - 43
+Northern Fulmar - 44
+Gadwall - 45
+American Goldfinch - 46
+European Goldfinch - 47
+Boat tailed Grackle - 48
+Eared Grebe - 49
+Horned Grebe - 50
+Pied billed Grebe - 51
+Western Grebe - 52
+Blue Grosbeak - 53
+Evening Grosbeak - 54
+Pine Grosbeak - 55
+Rose breasted Grosbeak - 56
+Pigeon Guillemot - 57
+California Gull - 58
+Glaucous winged Gull - 59
+Heermann Gull - 60
+Herring Gull - 61
+Ivory Gull - 62
+Ring billed Gull - 63
+Slaty backed Gull - 64
+Western Gull - 65
+Anna Hummingbird - 66
+Ruby throated Hummingbird - 67
+Rufous Hummingbird - 68
+Green Violetear - 69
+Long tailed Jaeger - 70
+Pomarine Jaeger - 71
+Blue Jay - 72
+Florida Jay - 73
+Green Jay - 74
+Dark eyed Junco - 75
+Tropical Kingbird - 76
+Gray Kingbird - 77
+Belted Kingfisher - 78
+Green Kingfisher - 79
+Pied Kingfisher - 80
+Ringed Kingfisher - 81
+White breasted Kingfisher - 82
+Red legged Kittiwake - 83
+Horned Lark - 84
+Pacific Loon - 85
+Mallard - 86
+Western Meadowlark - 87
+Hooded Merganser - 88
+Red breasted Merganser - 89
+Mockingbird - 90
+Nighthawk - 91
+Clark Nutcracker - 92
+White breasted Nuthatch - 93
+Baltimore Oriole - 94
+Hooded Oriole - 95
+Orchard Oriole - 96
+Scott Oriole - 97
+Ovenbird - 98
+Brown Pelican - 99
+White Pelican - 100
+Western Wood Pewee - 101
+Sayornis - 102
+American Pipit - 103
+Whip poor Will - 104
+Horned Puffin - 105
+Common Raven - 106
+White necked Raven - 107
+American Redstart - 108
+Geococcyx - 109
+Loggerhead Shrike - 110
+Great Grey Shrike - 111
+Baird Sparrow - 112
+Black throated Sparrow - 113
+Brewer Sparrow - 114
+Chipping Sparrow - 115
+Clay colored Sparrow - 116
+House Sparrow - 117
+Field Sparrow - 118
+Fox Sparrow - 119
+Grasshopper Sparrow - 120
+Harris Sparrow - 121
+Henslow Sparrow - 122
+Le Conte Sparrow - 123
+Lincoln Sparrow - 124
+Nelson Sharp tailed Sparrow - 125
+Savannah Sparrow - 126
+Seaside Sparrow - 127
+Song Sparrow - 128
+Tree Sparrow - 129
+Vesper Sparrow - 130
+White crowned Sparrow - 131
+White throated Sparrow - 132
+Cape Glossy Starling - 133
+Bank Swallow - 134
+Barn Swallow - 135
+Cliff Swallow - 136
+Tree Swallow - 137
+Scarlet Tanager - 138
+Summer Tanager - 139
+Artic Tern - 140
+Black Tern - 141
+Caspian Tern - 142
+Common Tern - 143
+Elegant Tern - 144
+Forsters Tern - 145
+Least Tern - 146
+Green tailed Towhee - 147
+Brown Thrasher - 148
+Sage Thrasher - 149
+Black capped Vireo - 150
+Blue headed Vireo - 151
+Philadelphia Vireo - 152
+Red eyed Vireo - 153
+Warbling Vireo - 154
+White eyed Vireo - 155
+Yellow throated Vireo - 156
+Bay breasted Warbler - 157
+Black and white Warbler - 158
+Black throated Blue Warbler - 159
+Blue winged Warbler - 160
+Canada Warbler - 161
+Cape May Warbler - 162
+Cerulean Warbler - 163
+Chestnut sided Warbler - 164
+Golden winged Warbler - 165
+Hooded Warbler - 166
+Kentucky Warbler - 167
+Magnolia Warbler - 168
+Mourning Warbler - 169
+Myrtle Warbler - 170
+Nashville Warbler - 171
+Orange crowned Warbler - 172
+Palm Warbler - 173
+Pine Warbler - 174
+Prairie Warbler - 175
+Prothonotary Warbler - 176
+Swainson Warbler - 177
+Tennessee Warbler - 178
+Wilson Warbler - 179
+Worm eating Warbler - 180
+Yellow Warbler - 181
+Northern Waterthrush - 182
+Louisiana Waterthrush - 183
+Bohemian Waxwing - 184
+Cedar Waxwing - 185
+American Three toed Woodpecker - 186
+Pileated Woodpecker - 187
+Red bellied Woodpecker - 188
+Red cockaded Woodpecker - 189
+Red headed Woodpecker - 190
+Downy Woodpecker - 191
+Bewick Wren - 192
+Cactus Wren - 193
+Carolina Wren - 194
+House Wren - 195
+Marsh Wren - 196
+Rock Wren - 197
+Winter Wren - 198
+Common Yellowthroat - 199
