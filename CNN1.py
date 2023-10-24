@@ -40,13 +40,14 @@ TEST_DATADIR = 'test'
 # TEST_DATADIR = '/content/Mydrive/MyDrive/Colab Notebooks/CUB200/test'
 IMG_SIZE = (128, 128)
 BATCH_SIZE = 64
-VALIDATION_SPLIT = 0.1
-SEED = 1339
+VALIDATION_SPLIT = 0.2
+SEED = 1339 # reproducibility
 NUM_CLASSES = 200
 EPOCHS = 100
 AUTOTUNE = tf.data.AUTOTUNE
 
-
+# high-level Keras preprocessing utilities: convenient way to create a tf.data.Dataset from a directory of images.
+# efficiently load a structured directory of images into a format that can be easily used for training
 train_dataset = tf.keras.utils.image_dataset_from_directory(
     TRAIN_DATADIR,
     shuffle=True,

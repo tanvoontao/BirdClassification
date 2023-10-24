@@ -39,7 +39,7 @@ TRAIN_DATADIR = '/content/Mydrive/MyDrive/Colab Notebooks/CUB200/train'
 TEST_DATADIR = '/content/Mydrive/MyDrive/Colab Notebooks/CUB200/test'
 IMG_SIZE = (128, 128)
 BATCH_SIZE = 64
-VALIDATION_SPLIT = 0.1
+VALIDATION_SPLIT = 0.2
 SEED = 1339
 NUM_CLASSES = 200
 EPOCHS = 100
@@ -94,6 +94,7 @@ train_dataset = train_dataset.concatenate(flipped_vertical_dataset)
 train_dataset = train_dataset.concatenate(bright_dataset)
 train_dataset = train_dataset.concatenate(saturation_dataset)
 
+# Breaking Sequential Bias, and avoid overfit as it might not see a representative sample of the entire distribution, 
 train_dataset = train_dataset.shuffle(buffer_size=10000)
 
 
